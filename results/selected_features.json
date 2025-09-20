@@ -1,0 +1,34 @@
+{
+  "top_rf": [
+    "thalach",
+    "oldpeak",
+    "cp_4.0",
+    "thal_7.0",
+    "age",
+    "trestbps",
+    "chol",
+    "exang",
+    "slope_2.0",
+    "sex"
+  ],
+  "rfe": [
+    "cp_4.0",
+    "slope_2.0",
+    "ca_1.0",
+    "ca_2.0",
+    "ca_3.0",
+    "thal_7.0",
+    "sex",
+    "exang"
+  ],
+  "chi2": [
+    "cp_2.0",
+    "cp_3.0",
+    "cp_4.0",
+    "slope_2.0",
+    "ca_1.0",
+    "ca_2.0",
+    "thal_7.0",
+    "exang"
+  ]
+}
