@@ -1,0 +1,4 @@
+Logistic Regression - Accuracy: TBD
+Decision Tree - Accuracy: TBD
+Random Forest - Accuracy: TBD
+SVM - Accuracy: TBD
